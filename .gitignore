@@ -1,0 +1,4 @@
+test/*
+deploy/*
+
+__pycache__

@@ -1,0 +1,1 @@
+This path can be removed, this is only an extraction of GSPRINT.rar y GSSCRIPT.rar
