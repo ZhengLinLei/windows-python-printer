@@ -1,4 +1,5 @@
 test/*
 deploy/*
-
+bin/gsprint
+bin/gsscript
 __pycache__
